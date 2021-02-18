@@ -1,0 +1,5 @@
+{
+    "name": "Leonardo",
+    "testSrc": "*.test.js",
+    "targetSrc": "*.js"
+}
